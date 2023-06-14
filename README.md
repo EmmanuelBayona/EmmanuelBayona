@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Emmanuel Bayona
 Bilingual Software Engineering student passionate about technology since childhood, self-taught in free time and with great problem-solving skills. Enthusiastic about designing software solutions in a creative way and based on best practices using the latest Front-end oriented technologies.
 
-I'm someone who loves technology, sharing experiences and never stop learning.
-
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,&theme=light)](https://skillicons.dev)
 
