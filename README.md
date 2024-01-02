@@ -1,1 +1,2 @@
-👀 bayonaj368@gmail.com
+🌐 [site](https://portfolio-next-azure-pi.vercel.app/)
+📧 bayonaj368@gmail.com
